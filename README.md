@@ -11,8 +11,7 @@ Before we go any further, though, here's the small print:
 ###Installation
 1. Pick up the script from the index.js file.
 1. Create a new bookmark in your browser.
-1. Paste the script into the URL field of the bookmark, but don't forget to prefix it with javascript:. Like this:
-```javascript
+1. Paste the script into the URL field of the bookmark, but don't forget to prefix it with javascript:. Like this: ```javascript
 javascript:(function() { /* Your script here */ })();
 ```
 1. Save the bookmark.
